@@ -34,7 +34,7 @@ export default function Nav() {
           </Link>
         </NavbarItem>
         <NavbarItem isActive>
-          <Link aria-current="page" href="#">
+          <Link aria-current="page" href="receiver">
             Customers
           </Link>
         </NavbarItem>
