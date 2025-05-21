@@ -69,7 +69,7 @@ export default function Example() {
   return (
     <form className="p-4 max-w-md mx-auto">
       <label htmlFor="name" className="block text-sm font-medium text-gray-700">
-       Your  Name
+       what is your Name bro telell me ?
       </label>
       <input
         id="name"
