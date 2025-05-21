@@ -71,7 +71,7 @@ export default function Example() {
       <label htmlFor="name" className="block text-sm font-medium text-gray-700">
 
        what is your name?
-
+      
       </label>
       <input
         id="name"
